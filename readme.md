@@ -1,13 +1,7 @@
 # 🐍 Autonomous AI Snake — A* Pathfinding Engine
-
 Classic Nokia Snake × Explainable AI. One Python file. Zero human input.
 
-## Quick Start
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
+Launched website: https://aiminiproject.streamlit.app/
 
 ## Features
 
